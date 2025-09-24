@@ -1,0 +1,3 @@
+__pycache__/
+model/doupo/final_model/pytorch_model.bin
+model/novel/final_model/pytorch_model.bin
